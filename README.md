@@ -1,2 +1,3 @@
 # Demo
-First git repo
+First git repo.
+This is a public repo.
